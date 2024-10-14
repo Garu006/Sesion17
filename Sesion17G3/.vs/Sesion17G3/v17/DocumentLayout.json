@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|c:\\users\\gabri\\onedrive\\documentos\\sesion17\\sesion17g3\\sesion17g3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|solutionrelative:sesion17g3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|c:\\users\\gabri\\onedrive\\documentos\\sesion17\\sesion17g3\\sesion17g3\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|solutionrelative:sesion17g3\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|c:\\users\\gabri\\onedrive\\documentos\\sesion17\\sesion17g3\\sesion17g3\\formularios\\productofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|solutionrelative:sesion17g3\\formularios\\productofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|c:\\users\\gabri\\onedrive\\documentos\\sesion17\\sesion17g3\\sesion17g3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|solutionrelative:sesion17g3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|c:\\users\\gabri\\onedrive\\documentos\\sesion17\\sesion17g3\\sesion17g3\\formularios\\productofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|solutionrelative:sesion17g3\\formularios\\productofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|c:\\users\\gabri\\onedrive\\documentos\\sesion17\\sesion17g3\\sesion17g3\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7E0C05-88CA-4327-B26A-8DA5251AC7AC}|Sesion17G3\\Sesion17G3.csproj|solutionrelative:sesion17g3\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Form1.cs",
+              "RelativeDocumentMoniker": "Sesion17G3\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Form1.cs",
+              "RelativeToolTip": "Sesion17G3\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA9wCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:38:11.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoFrm.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Formularios\\ProductoFrm.cs",
+              "RelativeDocumentMoniker": "Sesion17G3\\Formularios\\ProductoFrm.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Formularios\\ProductoFrm.cs",
+              "RelativeToolTip": "Sesion17G3\\Formularios\\ProductoFrm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:25:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Formularios\\ProductoFrm.cs",
+              "RelativeDocumentMoniker": "Sesion17G3\\Formularios\\ProductoFrm.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Formularios\\ProductoFrm.cs [Design]",
+              "RelativeToolTip": "Sesion17G3\\Formularios\\ProductoFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:07:02.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Servicios\\ProductoServicio.cs",
+              "RelativeDocumentMoniker": "Sesion17G3\\Servicios\\ProductoServicio.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Servicios\\ProductoServicio.cs",
+              "RelativeToolTip": "Sesion17G3\\Servicios\\ProductoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:20:35.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "Sesion17G3\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Modelos\\Producto.cs",
+              "RelativeToolTip": "Sesion17G3\\Modelos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:17:26.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Form1.cs",
+              "RelativeDocumentMoniker": "Sesion17G3\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\Sesion17\\Sesion17G3\\Sesion17G3\\Form1.cs [Design]",
+              "RelativeToolTip": "Sesion17G3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:13:59.342Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

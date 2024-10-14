@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\bin\Debug\Sesion17G3.exe.config
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\bin\Debug\Sesion17G3.exe
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\bin\Debug\Sesion17G3.pdb
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\bin\Debug\NLog.dll
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\bin\Debug\NLog.xml
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.Formularios.ProductoFrm.resources
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.csproj.Up2Date
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.exe
+C:\Users\gabri\OneDrive\Documentos\Sesion17\Sesion17G3\Sesion17G3\obj\Debug\Sesion17G3.pdb
